@@ -233,3 +233,14 @@ body{
     }
 
 }
+@media screen and (max-width:700px){
+    .input-box-size1{
+        width: 150px;
+         
+    }
+    .input-box-size{
+        width: 150px;
+          
+    }
+    
+}
